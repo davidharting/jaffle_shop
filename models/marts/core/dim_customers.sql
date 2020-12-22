@@ -1,3 +1,5 @@
+-- Here is some content
+
 with customers as (
 
     select * from {{ ref('stg_customers') }}
