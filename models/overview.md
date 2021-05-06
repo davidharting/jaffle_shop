@@ -9,3 +9,5 @@ This [dbt](https://www.getdbt.com/) project is for demonstrations and tutorials.
 The source code can be found [here](https://github.com/clrcrl/jaffle_shop).
 
 {% enddocs %}
+
+Making this change from the GITHUB UI.
