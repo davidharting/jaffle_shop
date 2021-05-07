@@ -1,4 +1,5 @@
 -- Change from dbt cloud
+-- change frmo dbt cloud ui again
 with customers as (
 
     select * from {{ ref('stg_customers') }}
