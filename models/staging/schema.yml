@@ -17,7 +17,7 @@ models:
       - name: status
         tests:
           - accepted_values:
-              values: ['placed', 'shipped', 'completed', 'return_pending', 'returned' , 'out of stock', 'lost']
+              values: ['placed', 'shipped', 'completed', 'return_pending', 'returned' , 'out of stock', 'restocked', 'lost']
 
   - name: stg_payments
     columns:
