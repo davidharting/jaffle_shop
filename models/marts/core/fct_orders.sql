@@ -1,4 +1,5 @@
 -- Change from GitHub UI
+-- Another change from the github ui
 
 {% set payment_methods = ['credit_card', 'coupon', 'bank_transfer', 'gift_card'] %}
 
